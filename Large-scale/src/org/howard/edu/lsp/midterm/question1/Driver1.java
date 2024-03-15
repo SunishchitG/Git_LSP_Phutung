@@ -4,7 +4,7 @@ public class Driver1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		SecurityOOPS obj = new SecurityOOPS();
+		SecurityOps obj = new SecurityOps();
 		String testOutput = obj.encrypt("I love CSCI363");
 		System.out.println(testOutput);
 //	        String originalText = "I love CSCI363";
